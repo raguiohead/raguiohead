@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- HEADER TERMINAL / CYBERPUNK - VINHO & CINZA -->
+<!-- HERO ART BANNER - CYBERTRIBAL CHROME & NEON WINE RED -->
 <a href="https://linkedin.com/in/devguilhermep/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=722F37&height=220&section=header&text=RAGUIOHEAD%20//%20SYS&fontSize=42&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%C2%B7%20FULL%20STACK%20%C2%B7%20AI%20SYSTEMS&descAlignY=62&descSize=16&descAlign=50&stroke=800020&strokeWidth=2" alt="RAGUIOHEAD // SYS" width="100%">
+  <img src="./assets/raguiohead-banner.png" alt="RAGUIOHEAD // SYS — Cybernetic Systems Architect & Software Engineer" width="100%">
 </a>
 
 <br><br>
 
 <!-- BADGES DE NAVEGAÇÃO -->
 <a href="https://linkedin.com/in/devguilhermep/">
-  <img src="https://img.shields.io/badge/LINKEDIN-DEVGUILHERMEP-722F37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-DEVGUILHERMEP-800020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn">
 </a>
 <a href="https://github.com/raguiohead">
-  <img src="https://img.shields.io/badge/GITHUB-RAGUIOHEAD-722F37?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-RAGUIOHEAD-800020?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub">
 </a>
 <a href="mailto:guilherme2016ae@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTATO-722F37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email">
+  <img src="https://img.shields.io/badge/EMAIL-CONTATO-800020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email">
 </a>
 
 </div>
@@ -93,7 +93,7 @@ CURRENTLY
 ### 🤖 IA, TESTES & DEVOPS
 
 <p>
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-161B22?style=for-the-badge&logo=openai&logoColor=722F37" alt="AI Multi-Agents">
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-161B22?style=for-the-badge&logo=openai&logoColor=800020" alt="AI Multi-Agents">
   <img src="https://img.shields.io/badge/Ollama_&_Local_LLMs-161B22?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
   <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
   <img src="https://img.shields.io/badge/SonarQube-161B22?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube">
@@ -142,13 +142,13 @@ AND EVERYONE BUILDING SOFTWARE THAT GENERATES REAL VALUE
 
 <p>
   <a href="https://linkedin.com/in/devguilhermep/">
-    <img src="https://img.shields.io/badge/LINKEDIN-GUILHERME_PEREIRA-722F37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-GUILHERME_PEREIRA-800020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn">
   </a>
   <a href="https://github.com/raguiohead">
-    <img src="https://img.shields.io/badge/GITHUB-RAGUIOHEAD-722F37?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-RAGUIOHEAD-800020?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub">
   </a>
   <a href="mailto:guilherme2016ae@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-GUILHERME2016AE@GMAIL.COM-722F37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-GUILHERME2016AE@GMAIL.COM-800020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email">
   </a>
 </p>
 
