@@ -27,14 +27,11 @@
 │ RAGUIOHEAD.SYS // PROFILE DATA                              │
 ├─────────────────────────────────────────────────────────────┤
 │ Type ...... : Software Engineer & Systems Builder           │
-│ Code ...... : Guilherme Pereira (Alves)                     │
+│ Name ...... : Guilherme Pereira (Alves)                     │
 │ Alias ..... : raguiohead                                    │
 │ Role ...... : Full Stack & AI Systems Engineer              │
 │ Domain .... : Inovações & Eficiência Operacional            │
 │ Company ... : Unimed Ceará                                  │
-│ Stack ..... : Java 21+ · Spring Boot · Vue 3 · TypeScript   │
-│ Persistence : Oracle Database · PostgreSQL · SQLite WAL     │
-│ AI Tech ... : Autonomous Agents · Local LLMs · Semantic RAG │
 │ OS ........ : Linux & Windows                               │
 │ Location .. : Fortaleza, CE — Brazil                        │
 │ Status .... : ONLINE // BUILDING IN PRODUCTION              │
@@ -45,21 +42,37 @@
 
 Engenheiro de Software atuando no time de **Inovações & Serviços Gerais da Unimed Ceará**.
 
-Minha diretriz de desenvolvimento é **construir sistemas de alto ROI**: transformar processos manuais, regras de negócio complexas e gargalos operacionais em microsserviços escaláveis, seguros e fáceis de manter.
+Minha diretriz de desenvolvimento é **construir sistemas de alto ROI**: transformar processos manuais, regras de negócio complexas e gargalos operacionais em soluções escaláveis, seguras e fáceis de manter.
 
-Atuo do banco de dados relacional de missão crítica até interfaces responsivas de alta produtividade, combinando **Clean Architecture, segurança corporativa (Keycloak RBAC), observabilidade e suítes de testes rigorosas** com a vanguarda de **Sistemas Multiagentes e RAG local de alta performance**.
+Atuo desde a modelagem de bancos relacionais de missão crítica até interfaces responsivas de alta produtividade, combinando **Clean Architecture, segurança corporativa (Keycloak RBAC), observabilidade e suítes de testes rigorosas** com a vanguarda de **Sistemas Multiagentes e RAG local de alta performance**.
 
-```text
-CURRENTLY
-──────────────────────────────────────────────────────────────
+---
 
-🔨 BUILDING .... Service Desk IA & Portais Corporativos de Automação
-💼 WORKING ..... Microsserviços Spring Boot 3 & Frontends Quasar/Vue 3
-🧠 LEARNING .... Sistemas Multiagentes em Produção & Engenharia de Software
-🎯 INTERESTS ... Clean Arch · DDD · RAG & LLMs · Observabilidade · Linux
-```
+## 🚀 // HIGHLIGHTS & IMPACTO
 
-## 🛠️ // LOADOUT
+### 🏥 [Case Corporativo] Sistema de Reservas & Saúde Corporativa
+> **Stack:** Java 21 · Spring Boot 3 · Oracle Database · Keycloak RBAC · Vue 3 Quasar  
+- **Impacto:** Plataforma corporativa para agendamento de massoterapia e serviços de saúde ocupacional. Gestão 100% automatizada, zero concorrência/colisão em agendamentos simultâneos e Quality Gate A no SonarQube.  
+- **Status:** `PRODUCTION // LIVE NA UNIMED CEARÁ`
+
+### 🤖 [Case Corporativo] Service Desk IA & Triagem Semântica
+> **Stack:** Next.js · TypeScript · Ollama (DeepSeek & Qwen) · SQLite WAL  
+- **Impacto:** Assistente semântico com busca vetorial em base histórica de **6.500+ chamados**, com inferência contextual e recomendação em **<5ms**.  
+- **Status:** `STAGING // EM REFINAMENTO`
+
+### 📞 [Case Corporativo] Central de Contatos Colaborativa
+> **Stack:** Spring Boot Modular · Hibernate JPA · Vue 3 Quasar · TypeScript  
+- **Impacto:** Módulo institucional de diretório e inteligência PABX. Consultas otimizadas com JPQL imutável, eliminação de gargalos N+1 e consulta em tempo real.  
+- **Status:** `PRODUCTION // INTEGRATED`
+
+### 🧠 [Open Source] Senior AI Dev Workflow
+> **Stack:** Markdown · Spec-Driven Development · AI Governance  
+- **Impacto:** Especificação e guardrails para pareamento de engenharia com agentes autônomos e LLMs em ambientes de produção.  
+- **Status:** `OPEN SOURCE // ACTIVE`
+
+---
+
+## 🛠️ // LOADOUT & TECH STACK
 
 ### 💻 BACKEND & ARQUITETURA
 
@@ -101,32 +114,7 @@ CURRENTLY
   <img src="https://img.shields.io/badge/Prometheus_&_Grafana-161B22?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana">
 </p>
 
-## 🚀 // RELEASES & HIGHLIGHTS
-
-```text
-[01] SISTEMA DE RESERVAS (MASSOTERAPIA & SAÚDE CORPORATIVA)
-     type .... corporate booking platform
-     stack ... Java 21 / Spring Boot 3 / Oracle / Keycloak / Vue 3 Quasar
-     impact .. Gestão 100% automatizada, zero concorrência/colisão e Quality Gate A
-     state ... PRODUCTION // LIVE NA UNIMED CEARÁ
-
-[02] SERVICE DESK IA
-     type .... semantic triage & rag assistant
-     stack ... Next.js / TypeScript / Ollama (DeepSeek & Qwen) / SQLite WAL
-     impact .. Busca vetorial em 6.500+ chamados históricos com inferência em <5ms
-     state ... STAGING // REFINEMENT
-
-[03] CENTRAL DE CONTATOS COLABORATIVA
-     type .... institutional directory & pabx intelligence module
-     stack ... Spring Boot Modular / JPA Imutável / Quasar / TypeScript
-     impact .. Otimização JPQL com zero N+1 e consulta em tempo real
-     state ... PRODUCTION // INTEGRATED
-
-[04] SENIOR AI DEV WORKFLOW
-     type .... agentic engineering workflow & developer guardrails
-     stack ... Markdown / AI Governance / Spec-Driven Development
-     state ... OPEN SOURCE // ACTIVE
-```
+---
 
 ## 💬 // GREETS
 
