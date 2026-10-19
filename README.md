@@ -41,6 +41,7 @@ Rastreador diário de hábitos **estritamente monocromático**, **local-first** 
 
 * **Foco diário:** fita semanal com gestos de swipe, progresso do dia e cálculo de ofensivas (*streaks*).
 * **Consistência em 90 dias:** grade estilo GitHub e métricas de retenção de 14 e 30 dias.
+* **Pomodoro e lembretes:** timer de foco com metas por hábito e notificações diárias (no Android, mesmo com o app fechado).
 * **Privacidade e acessibilidade:** modo discreto que oculta nomes de hábitos, ajuste de texto, alto contraste e redução de animações.
 * **Qualidade:** testes com Vitest nos cálculos de streaks, datas e estatísticas.
 * **Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Firebase` `Capacitor` `PWA`
