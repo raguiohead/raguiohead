@@ -53,6 +53,8 @@ Rastreador diário de hábitos **estritamente monocromático**, **local-first** 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
 | [**guivros**](https://github.com/raguiohead/guivros) · [site](https://guivros.vercel.app) | Aplicação web para catalogar e vender livros e objetos do acervo pessoal, com vitrine filtrável, galeria de imagens, contato direto via WhatsApp e menu de acessibilidade. | `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Supabase` |
+| [**sinapse**](https://github.com/raguiohead/sinapse) | Orquestrador pessoal de agentes: um cérebro Claude Code que delega tarefas a workers de múltiplos provedores (Gemini, Codex e outros Claudes). | `TypeScript` `Multi-Agent Systems` `Claude Code` |
+| [**agent-toolkit**](https://github.com/raguiohead/agent-toolkit) | Arsenal pessoal de skills modulares, subagentes especializados, templates MCP e scripts de automação para Claude Code, Antigravity e Codex. | `Skills` `MCP` `Subagentes` `PowerShell` |
 
 ---
 
