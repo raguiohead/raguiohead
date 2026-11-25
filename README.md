@@ -46,15 +46,13 @@ Rastreador diário de hábitos **estritamente monocromático**, **local-first** 
 * **Qualidade:** testes com Vitest nos cálculos de streaks, datas e estatísticas.
 * **Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Firebase` `Capacitor` `PWA`
 
-[🌐 Acessar o app](https://mono-habits-kappa.vercel.app) · [📱 Baixar o app Android](https://github.com/raguiohead/mono-habits/releases/latest) · [💻 Código-fonte](https://github.com/raguiohead/mono-habits)
+[🌐 Acessar o app](https://mono-habits.web.app) · [📱 Baixar o app Android](https://github.com/raguiohead/mono-habits/releases/latest) · [💻 Código-fonte](https://github.com/raguiohead/mono-habits)
 
 #### Outros projetos
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| [**coop-onboarding**](https://github.com/raguiohead/coop-onboarding) | Plataforma de treinamento e onboarding de novos colaboradores, com trilhas de aprendizagem, tutor virtual com IA local (RAG), geração de quizzes e controle de acesso por papéis via Keycloak. | `Java 21` `Spring Boot 3` `Spring AI` `Vue 3` `TypeScript` `PostgreSQL + pgvector` `Keycloak` `Ollama` `Docker` |
 | [**guivros**](https://github.com/raguiohead/guivros) · [site](https://guivros.vercel.app) | Aplicação web para catalogar e vender livros e objetos do acervo pessoal, com vitrine filtrável, galeria de imagens, contato direto via WhatsApp e menu de acessibilidade. | `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Supabase` |
-| [**senior-ai-dev-workflow**](https://github.com/raguiohead/senior-ai-dev-workflow) | Skill para agentes de IA (Antigravity, Claude Code e similares) que orienta o trabalho como engenheiro sênior: GitHub Flow com issue obrigatória, princípios de motion design e UX, observabilidade e testes automatizados. | `AI Agents` `GitHub Flow` `Spec-Driven` |
 
 ---
 
